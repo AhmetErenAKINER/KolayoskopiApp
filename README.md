@@ -88,6 +88,22 @@ npx expo start --ios        # iOS simülatörde
 npx expo start --web        # Web tarayıcıda
 ```
 
+### 📲 Expo Go ile Hızlı Erişim
+
+Uygulamayı fiziksel cihazınızda denemek için **Expo Go** uygulamasını indirin ve aşağıdaki QR kodu tarayın:
+
+<p align="center">
+  <img src="./assets/expo-go-qr.png" alt="Expo Go QR Code" width="250" />
+</p>
+
+> **Not:** QR kodu taramak için telefonunuzda [Expo Go](https://expo.dev/client) uygulamasının yüklü olması gerekmektedir.
+
+## 🎬 Uygulama Demo Videosu
+
+Uygulamanın ekran kayıt videosunu aşağıdan izleyebilirsiniz:
+
+https://github.com/AhmetErenAKINER/KolayoskopiApp/blob/main/KoolayoskopiApp_EkranG%C3%B6r%C3%BCnt%C3%BCs%C3%BC.mp4
+
 ## 🛠️ Kullanılan Teknolojiler
 
 | Teknoloji | Kullanım Amacı |
